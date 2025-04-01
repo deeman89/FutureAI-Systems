@@ -1,0 +1,36 @@
+
+- name: type: feature
+  color: 0e8a16
+  description: New functionality
+
+- name: type: bug
+  color: d73a4a
+  description: Something broken
+
+- name: type: task
+  color: 0075ca
+  description: General work
+
+- name: frontend
+  color: cfd3d7
+  description: React/UX/UI tasks
+
+- name: backend
+  color: 5319e7
+  description: FastAPI/backend
+
+- name: ai
+  color: f9d0c4
+  description: GPT logic/tasks
+
+- name: priority: high
+  color: b60205
+  description: Must do immediately
+
+- name: priority: med
+  color: fbca04
+  description: Should be done soon
+
+- name: priority: low
+  color: 0e8a16
+  description: Nice to have
